@@ -1,0 +1,56 @@
+/* #to_left{
+    padding-right:1100px;
+} */
+body{
+    padding: 30px;
+}
+.head{
+    background-color: darkred;
+    display: flex;
+    padding: 12px 10px;
+}
+.name{
+    margin-right: 70%;
+    color:white
+}
+.cat{
+    margin-left: 15px;
+    color: darkgrey;
+}
+.main{
+    display: flex;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(153, 207, 210) ;
+}
+.phot{
+    width: 600px;
+}
+.text{
+    margin-left: 30px;
+    font-size: 18px;
+}
+.news{
+    text-align: center;
+    margin: 20px 0;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width: 331px;
+}
+.img{
+    width: 330px;
+    height: 210px;
+}
+.second{
+    padding: 20px;
+    height: 210px;
+}
+.more{
+    background-color: darkred;
+    color: white;    
+    margin-top: 40px;
+}
